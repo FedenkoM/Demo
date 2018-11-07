@@ -1,0 +1,85 @@
+07-Nov-18 11:44:05 PM	This log contains information about the import schema operation into project 'Demo' on computer 'DESKTOP-SQLPOI8' by user 'Misha'.
+07-Nov-18 11:44:05 PM	Import of database schema has started.
+07-Nov-18 11:44:24 PM	Gathering database credentials
+07-Nov-18 11:44:24 PM	Gathering database options
+07-Nov-18 11:44:24 PM	Gathering generic database scoped configuration option
+07-Nov-18 11:44:24 PM	Gathering users
+07-Nov-18 11:44:24 PM	Gathering roles
+07-Nov-18 11:44:24 PM	Gathering application roles
+07-Nov-18 11:44:24 PM	Gathering role memberships
+07-Nov-18 11:44:24 PM	Gathering filegroups
+07-Nov-18 11:44:24 PM	Gathering full-text catalogs
+07-Nov-18 11:44:24 PM	Gathering assemblies
+07-Nov-18 11:44:24 PM	Gathering certificates
+07-Nov-18 11:44:24 PM	Gathering asymmetric keys
+07-Nov-18 11:44:24 PM	Gathering symmetric keys
+07-Nov-18 11:44:24 PM	Gathering encrypted symmetric keys
+07-Nov-18 11:44:24 PM	Gathering schemas
+07-Nov-18 11:44:24 PM	Gathering XML schema collections
+07-Nov-18 11:44:25 PM	Gathering user-defined data types
+07-Nov-18 11:44:25 PM	Gathering user-defined types
+07-Nov-18 11:44:25 PM	Gathering table types
+07-Nov-18 11:44:25 PM	Gathering unique keys for table types
+07-Nov-18 11:44:25 PM	Gathering primary keys for table types
+07-Nov-18 11:44:25 PM	Gathering indexes for table types
+07-Nov-18 11:44:25 PM	Gathering check constraints for table types
+07-Nov-18 11:44:25 PM	Gathering default constraints for table types
+07-Nov-18 11:44:25 PM	Gathering partition functions
+07-Nov-18 11:44:25 PM	Gathering partition schemes
+07-Nov-18 11:44:25 PM	Gathering functions
+07-Nov-18 11:44:25 PM	Gathering encrypted functions
+07-Nov-18 11:44:25 PM	Gathering aggregates
+07-Nov-18 11:44:25 PM	Gathering procedures
+07-Nov-18 11:44:25 PM	Gathering encrypted procedures
+07-Nov-18 11:44:25 PM	Gathering tables
+07-Nov-18 11:44:25 PM	Gathering primary keys
+07-Nov-18 11:44:25 PM	Gathering unique constraints
+07-Nov-18 11:44:25 PM	Gathering foreign keys
+07-Nov-18 11:44:25 PM	Gathering default constraints
+07-Nov-18 11:44:25 PM	Gathering check constraints
+07-Nov-18 11:44:25 PM	Gathering views
+07-Nov-18 11:44:25 PM	Gathering encrypted views
+07-Nov-18 11:44:25 PM	Gathering indexes
+07-Nov-18 11:44:25 PM	Gathering statistics
+07-Nov-18 11:44:25 PM	Gathering full-text index stoplists
+07-Nov-18 11:44:25 PM	Gathering search property lists
+07-Nov-18 11:44:25 PM	Gathering search properties
+07-Nov-18 11:44:25 PM	Gathering full-text indexes
+07-Nov-18 11:44:25 PM	Gathering column store indexes
+07-Nov-18 11:44:25 PM	Gathering spatial indexes
+07-Nov-18 11:44:25 PM	Gathering XML indexes
+07-Nov-18 11:44:25 PM	Gathering Selective XML indexes
+07-Nov-18 11:44:25 PM	Gathering encrypted triggers
+07-Nov-18 11:44:25 PM	Gathering triggers
+07-Nov-18 11:44:25 PM	Gathering encrypted and clr ddl triggers
+07-Nov-18 11:44:25 PM	Gathering ddl triggers
+07-Nov-18 11:44:25 PM	Gathering synonyms
+07-Nov-18 11:44:25 PM	Gathering defaults
+07-Nov-18 11:44:25 PM	Gathering data constraint uddt bindings
+07-Nov-18 11:44:25 PM	Gathering rules
+07-Nov-18 11:44:25 PM	Gathering data constraint uddt bindings
+07-Nov-18 11:44:25 PM	Gathering message types
+07-Nov-18 11:44:25 PM	Gathering queues
+07-Nov-18 11:44:25 PM	Gathering contracts
+07-Nov-18 11:44:25 PM	Gathering services
+07-Nov-18 11:44:25 PM	Gathering event notifications
+07-Nov-18 11:44:25 PM	Gathering remote service bindings
+07-Nov-18 11:44:25 PM	Gathering broker priorities
+07-Nov-18 11:44:25 PM	Gathering signatures
+07-Nov-18 11:44:25 PM	Gathering data compression options
+07-Nov-18 11:44:25 PM	Gathering sequence types
+07-Nov-18 11:44:25 PM	Gathering security policies
+07-Nov-18 11:44:25 PM	Gather column encryption keys
+07-Nov-18 11:44:25 PM	Gathering column master keys
+07-Nov-18 11:44:25 PM	Gathering external data sources
+07-Nov-18 11:44:25 PM	Gathering external file formats
+07-Nov-18 11:44:25 PM	Gathering external tables
+07-Nov-18 11:44:25 PM	Gathering extended properties
+07-Nov-18 11:44:25 PM	Gathering credentials
+07-Nov-18 11:44:25 PM	Gathering logins
+07-Nov-18 11:44:25 PM	Gathering server audits
+07-Nov-18 11:44:25 PM	Scanning project for duplicate elements
+07-Nov-18 11:44:25 PM	Finished duplicate element processing
+07-Nov-18 11:44:26 PM	Finished importing database.
+07-Nov-18 11:44:26 PM	A summary of the import was saved to the following location: C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\Import Schema Logs\Demo_20181107094405.log
+07-Nov-18 11:44:26 PM	Click Finish to continue...
