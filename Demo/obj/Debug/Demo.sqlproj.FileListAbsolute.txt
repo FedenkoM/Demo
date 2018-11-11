@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\bin\Debug\Demo.dacpac
+C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\bin\Debug\Demo.dll
+C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\obj\Debug\Demo.sqlprojAssemblyReference.cache
+C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\obj\Debug\Model.xml
+C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\obj\Debug\refactor.xml
+C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\obj\Debug\postdeploy.sql
+C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\obj\Debug\predeploy.sql
+C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\obj\Debug\Demo.dll
+C:\Users\hp\Desktop\HomeTask\Lecture8\Demo\Demo\obj\Debug\Demo.pdb
